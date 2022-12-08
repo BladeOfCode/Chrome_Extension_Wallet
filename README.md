@@ -6,7 +6,7 @@
   <a href="/">
     <img src="public/Capture.JPG" alt="Logo" width="190" height="300">
   </a>
-  <h1 align="center">Hedera Test Wallet for Web23 company</h1>
+  <h1 align="center">Hedera Test Wallet</h1>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -88,4 +88,3 @@ Go to `Manage extensions` of chrome extension menu, click `Load unpacked` to ins
 
 <br/>
 <hr/>
-<i>Anthony Jesus Toro Condor 11/24/2022</i>
